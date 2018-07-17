@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DownloadManagerDemo-MVVM</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="enable_permission">You need to enable permissions from settings to use this app</string>
+    <string name="go_to_settings">Go to settings</string>
+    <string name="exit">Exit</string>
+    <string name="download_file">Download File</string>
+    <string name="download_successful">the download has successfully completed</string>
+    <string name="not_downloaded">the file couldn\'t be downloaded</string>
+</resources>
